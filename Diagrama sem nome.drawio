@@ -16,7 +16,7 @@
         <mxCell id="cjLTxaOvsXGJ_1vHwZwX-6" edge="1" parent="1" source="cjLTxaOvsXGJ_1vHwZwX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cjLTxaOvsXGJ_1vHwZwX-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cjLTxaOvsXGJ_1vHwZwX-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Ler os dados&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cjLTxaOvsXGJ_1vHwZwX-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Ler os dados&lt;div&gt;(P1,P2,P3 e P4)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="420" y="160" as="geometry" />
         </mxCell>
         <mxCell id="cjLTxaOvsXGJ_1vHwZwX-7" edge="1" parent="1" source="cjLTxaOvsXGJ_1vHwZwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cjLTxaOvsXGJ_1vHwZwX-4">
