@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="F184X5WPWi9L4lSL1y7-">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D1jmseDMr23j3uxvsO4c-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="610" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se =1000" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Média=/N_DE_val_IND" vertex="1">
+          <mxGeometry height="60" width="160" x="270" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever Média e Total" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="D1jmseDMr23j3uxvsO4c-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="225" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
