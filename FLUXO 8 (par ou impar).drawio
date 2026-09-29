@@ -19,7 +19,7 @@
         <mxCell id="NM54h9UoHUsoc72RqBU1-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler N" vertex="1">
           <mxGeometry height="60" width="120" x="1430" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="NM54h9UoHUsoc72RqBU1-8" edge="1" parent="1" source="NM54h9UoHUsoc72RqBU1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="NM54h9UoHUsoc72RqBU1-12" value="PAR">
+        <mxCell id="NM54h9UoHUsoc72RqBU1-8" edge="1" parent="1" source="NM54h9UoHUsoc72RqBU1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="NM54h9UoHUsoc72RqBU1-12" value="SIM">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1580" y="355" as="sourcePoint" />
           </mxGeometry>
@@ -29,7 +29,7 @@
             <mxPoint x="1700" y="355" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NM54h9UoHUsoc72RqBU1-10" connectable="0" parent="NM54h9UoHUsoc72RqBU1-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IMPAR" vertex="1">
+        <mxCell id="NM54h9UoHUsoc72RqBU1-10" connectable="0" parent="NM54h9UoHUsoc72RqBU1-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NãO" vertex="1">
           <mxGeometry relative="1" x="-0.2333" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
