@@ -60,7 +60,7 @@
         <mxCell id="NM54h9UoHUsoc72RqBU1-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever Impar" vertex="1">
           <mxGeometry height="60" width="120" x="1650" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="NM54h9UoHUsoc72RqBU1-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="N/2=resto" vertex="1">
+        <mxCell id="NM54h9UoHUsoc72RqBU1-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="N/2=0&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;resto&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="1550" y="320" as="geometry" />
         </mxCell>
         <mxCell id="NM54h9UoHUsoc72RqBU1-16" edge="1" parent="1" source="NM54h9UoHUsoc72RqBU1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NM54h9UoHUsoc72RqBU1-15" value="">
