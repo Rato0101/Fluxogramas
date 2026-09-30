@@ -30,6 +30,15 @@
         <mxCell id="vaKIfEAjAWQbIT5uryjN-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Escrever &quot;PUTO&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="vaKIfEAjAWQbIT5uryjN-81" edge="1" parent="1" source="vaKIfEAjAWQbIT5uryjN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="377.5" />
+              <mxPoint x="780" y="377.5" />
+            </Array>
+            <mxPoint x="780" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vaKIfEAjAWQbIT5uryjN-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Escrever &quot;A tua inteligência também é negativa.&quot;" vertex="1">
           <mxGeometry height="70" width="140" x="660" y="115" as="geometry" />
         </mxCell>
