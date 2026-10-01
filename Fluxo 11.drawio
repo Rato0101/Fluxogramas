@@ -16,7 +16,7 @@
         <mxCell id="vJZfCIwtTy3ll2T9ks7n-19" edge="1" parent="1" source="vJZfCIwtTy3ll2T9ks7n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="vJZfCIwtTy3ll2T9ks7n-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vJZfCIwtTy3ll2T9ks7n-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Ler IDADE e TAM" vertex="1">
+        <mxCell id="vJZfCIwtTy3ll2T9ks7n-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Ler IDADE;TAM" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="250" as="geometry" />
         </mxCell>
         <mxCell id="vJZfCIwtTy3ll2T9ks7n-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="Escrever &quot;dados inválidos&quot;" vertex="1">
@@ -83,8 +83,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJZfCIwtTy3ll2T9ks7n-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="IDADE&amp;lt;0 E TAM&amp;lt;0" vertex="1">
-          <mxGeometry height="80" width="90" x="280" y="240" as="geometry" />
+        <mxCell id="vJZfCIwtTy3ll2T9ks7n-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="IDADE&amp;lt;0 OU TAM&amp;lt;0" vertex="1">
+          <mxGeometry height="80" width="105" x="280" y="240" as="geometry" />
         </mxCell>
         <mxCell id="vJZfCIwtTy3ll2T9ks7n-33" edge="1" parent="1" source="vJZfCIwtTy3ll2T9ks7n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="vJZfCIwtTy3ll2T9ks7n-9" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJZfCIwtTy3ll2T9ks7n-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="IDADE&amp;lt;13 E TAM&amp;lt;140" vertex="1">
+        <mxCell id="vJZfCIwtTy3ll2T9ks7n-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="IDADE&amp;gt;13 E TAM&amp;gt;140" vertex="1">
           <mxGeometry height="80" width="105" x="272.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="vJZfCIwtTy3ll2T9ks7n-39" edge="1" parent="1" source="vJZfCIwtTy3ll2T9ks7n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="vJZfCIwtTy3ll2T9ks7n-1">
