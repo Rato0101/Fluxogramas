@@ -36,6 +36,11 @@
         <mxCell id="2jaAxbrfXTnExJFD3ZOE-26" edge="1" parent="1" source="2jaAxbrfXTnExJFD3ZOE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2jaAxbrfXTnExJFD3ZOE-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2jaAxbrfXTnExJFD3ZOE-36" connectable="0" parent="2jaAxbrfXTnExJFD3ZOE-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.2333" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2jaAxbrfXTnExJFD3ZOE-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="NUM=3" vertex="1">
           <mxGeometry height="80" width="80" x="410" y="420" as="geometry" />
         </mxCell>
@@ -65,6 +70,11 @@
         </mxCell>
         <mxCell id="2jaAxbrfXTnExJFD3ZOE-28" edge="1" parent="1" source="2jaAxbrfXTnExJFD3ZOE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2jaAxbrfXTnExJFD3ZOE-5" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2jaAxbrfXTnExJFD3ZOE-34" connectable="0" parent="2jaAxbrfXTnExJFD3ZOE-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.3667" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2jaAxbrfXTnExJFD3ZOE-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="NUM=1" vertex="1">
           <mxGeometry height="80" width="80" x="410" y="170" as="geometry" />
@@ -109,6 +119,9 @@
         </mxCell>
         <mxCell id="2jaAxbrfXTnExJFD3ZOE-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUM=0.10*MASS" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="2jaAxbrfXTnExJFD3ZOE-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SIM" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
